@@ -1,0 +1,14 @@
+/Users/ozge/Desktop/Pratikler/diziler/bin/Debug/net8.0/diziler
+/Users/ozge/Desktop/Pratikler/diziler/bin/Debug/net8.0/diziler.deps.json
+/Users/ozge/Desktop/Pratikler/diziler/bin/Debug/net8.0/diziler.runtimeconfig.json
+/Users/ozge/Desktop/Pratikler/diziler/bin/Debug/net8.0/diziler.dll
+/Users/ozge/Desktop/Pratikler/diziler/bin/Debug/net8.0/diziler.pdb
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.AssemblyInfoInputs.cache
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.AssemblyInfo.cs
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.csproj.CoreCompileInputs.cache
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.dll
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/refint/diziler.dll
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.pdb
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/diziler.genruntimeconfig.cache
+/Users/ozge/Desktop/Pratikler/diziler/obj/Debug/net8.0/ref/diziler.dll
